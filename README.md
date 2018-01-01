@@ -1,0 +1,2 @@
+- sidevarつける
+- mainbodyの周りに空白できてしまう
